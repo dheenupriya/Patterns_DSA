@@ -41,3 +41,37 @@
 
    42. Trapping Rain Water
    15. 3Sum
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Practice problems for all patterns random questions:
+
+**1st Revision Set**
+Top K Frequent Elements
+Maximum Sum Circular Subarray
+Max Consecutive Ones III
+Find All Anagrams in a String
+3Sum Closest
+First Missing Positive
+Contiguous Array
+Jump Game
+
+**2nd Revision Set (Next Month)**
+Subarray Sum Equals K (yes, again — this is pattern-defining, must revisit)
+Subarray Sums Divisible by K
+Minimum Window Substring
+Container With Most Water (revisit — strengthens pointer intuition deeply)
+4Sum
+Find the Duplicate Number
+Gas Station
+Largest Rectangle in Histogram
+
+**3rd Revision Set (Final Layer)**
+Contiguous Array (if already done earlier for you, replace with 930)
+Binary Subarrays With Sum
+Sliding Window Maximum
+Continuous Subarray Sum
+3Sum Smaller
+Next Permutation
+Jump Game II
+Next Greater Element I
